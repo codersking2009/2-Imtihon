@@ -1,0 +1,149 @@
+.container {
+    width: 1300px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #095ACD;
+}
+
+.navbar {
+    background-color: #095ACD;
+    width: 1280px;
+    height: 86px;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    gap: 195px;
+}
+
+::placeholder {
+    color: white;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.input {
+    width: 290px;
+    height: 46px;
+    border-radius: 5px;
+    border: 1px;
+    background: #FFFFFF1A;
+    color: white;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+.link {
+    margin-top: 18px;
+
+}
+
+.link_text1 {
+    color: white;
+    text-decoration: none;
+    margin-right: 40px;
+    margin-left: -70px;
+}
+
+.link_text {
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.btn {
+    width: 160px;
+    height: 51px;
+    margin-left: -180px;
+    padding: 15px, 20px, 15px, 20px;
+    border-radius: 4px;
+    /* position: relative; */
+    border: 1px solid transparent;
+    background: #FE8B37;
+    color: white;
+    font-size: 16px;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #FE8B37;
+    border-color: #FE8B37;
+}
+.bi-house{
+    color: #095ACD;
+    font-size: 18px;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.y{
+    display: flex;
+    margin-top: 20px;
+    position: absolute;
+}
+.p{
+    font-size: 18px;
+    margin-left: 7px;
+}
+.text{
+    width: 100%;
+    height: 800px;
+    background-color: white;
+}
+.u{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 10px;
+    font-size: 38px;
+}
+.i{
+    position: absolute;
+    margin-top: 250px; 
+    margin-left: 20px;
+}
+
+
+
+.end {
+    width: 100%;
+    height: 109px;
+    background: linear-gradient(265.48deg, #095ACD 33.12%, #006AFF 84.7%);
+    display: flex;
+    gap: 60px;
+}
+.e{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.r1{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.r{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-top: 50px;
+}
+.ic{
+    font-size: 18px;
+    color: white;
+}
+.t{
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+    border: 0;
+}
+.ko{
+    display: flex;
+    gap: 10px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
